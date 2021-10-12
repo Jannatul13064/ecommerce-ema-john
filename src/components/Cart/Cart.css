@@ -1,0 +1,10 @@
+.cart{
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    position: fixed;
+    width: 250px;
+    color: white;
+    background-color: black;
+}
