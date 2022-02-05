@@ -1,6 +1,16 @@
 .product{
     display: flex;
+    justify-content: space-between;
     border-bottom: 1px solid lightgrey;
+    padding-left: 150px;
+}
+.half-side {
+    padding: 20px;
+    background: #5f9ea01f;
+    border-radius: 20px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    width: 65%;
 }
 .product-name{
     color: blue;
